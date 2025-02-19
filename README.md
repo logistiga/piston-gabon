@@ -216,4 +216,4 @@ npm run dev
 - [ ] Application mobile pour les commerciaux
 - [ ] Système de fidélité clients
 - [ ] Module de gestion des réparations
-- [ ] Intégration des paiements mobiles
+- [ ] Intégration des paiements mobiles"# piston-gabon" 
